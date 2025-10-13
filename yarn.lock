@@ -511,17 +511,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:9.37.0":
+"@eslint/js@npm:9.37.0, @eslint/js@npm:^9.37.0":
   version: 9.37.0
   resolution: "@eslint/js@npm:9.37.0"
   checksum: 10/2ead426ed47af0b914c7d7064eb59fede858483cf9511f78ded840708aca578138f2a6c375916d520f4f2ecf25945f4bd47b8a84e42106b4eb46f7708a36db1d
-  languageName: node
-  linkType: hard
-
-"@eslint/js@npm:^9.27.0":
-  version: 9.27.0
-  resolution: "@eslint/js@npm:9.27.0"
-  checksum: 10/cdbe380fd31bb325b9ec65ae310fb92a57efb796d3cc5d8bc9dafef447d634c64e497bedade6a49e0cf44a5b14560ab6ac9ed9da5a38e2415b31ae01ae5b758e
   languageName: node
   linkType: hard
 
@@ -2808,7 +2801,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "multimeter@workspace:."
   dependencies:
-    "@eslint/js": "npm:^9.27.0"
+    "@eslint/js": "npm:^9.37.0"
     "@types/node": "npm:^24.7.2"
     "@types/react": "npm:^19.2.2"
     "@types/react-dom": "npm:^19.1.5"

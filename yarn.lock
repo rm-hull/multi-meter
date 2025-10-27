@@ -1154,12 +1154,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/coverage-v8@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@vitest/coverage-v8@npm:4.0.2"
+"@vitest/coverage-v8@npm:4.0.3":
+  version: 4.0.3
+  resolution: "@vitest/coverage-v8@npm:4.0.3"
   dependencies:
     "@bcoe/v8-coverage": "npm:^1.0.2"
-    "@vitest/utils": "npm:4.0.2"
+    "@vitest/utils": "npm:4.0.3"
     ast-v8-to-istanbul: "npm:^0.3.5"
     debug: "npm:^4.4.3"
     istanbul-lib-coverage: "npm:^3.2.2"
@@ -1170,12 +1170,12 @@ __metadata:
     std-env: "npm:^3.9.0"
     tinyrainbow: "npm:^3.0.3"
   peerDependencies:
-    "@vitest/browser": 4.0.2
-    vitest: 4.0.2
+    "@vitest/browser": 4.0.3
+    vitest: 4.0.3
   peerDependenciesMeta:
     "@vitest/browser":
       optional: true
-  checksum: 10/467279d5e2113ca8d9a47ff8576b24bfc890110451ece29fe1c539a1ca8e789e113ff6ac5a282bdfbc1d98f19f409f328c9ed38e5b8b1afd8dada1e97c235a30
+  checksum: 10/8051dc457f74f9dbd912be9805fc3c6c1a965e3c86d88a6f4b2d4b7e38511dcce689447adb92235c33bec8fddcd0ede8e81f6bdf33eedc9ff00070b28a474093
   languageName: node
   linkType: hard
 
@@ -1209,15 +1209,6 @@ __metadata:
     vite:
       optional: true
   checksum: 10/933cab25563f68335a9871a6deba8f886f6be155c4a2146ee2b3b625578a0b4e068a4a26cf1a8d4ba3b5eb34771276f0365e51320fd06ad3f3f19163c5521d77
-  languageName: node
-  linkType: hard
-
-"@vitest/pretty-format@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@vitest/pretty-format@npm:4.0.2"
-  dependencies:
-    tinyrainbow: "npm:^3.0.3"
-  checksum: 10/73ccc8cf4d8edca0e3261a4ebb22ab0b29600efc9c13fe98e3d9ed54516bb130bde1a39463066bb25093d37c9b4eacb619b56560ff0ef29ee304b054a9613836
   languageName: node
   linkType: hard
 
@@ -1255,16 +1246,6 @@ __metadata:
   version: 4.0.3
   resolution: "@vitest/spy@npm:4.0.3"
   checksum: 10/4fc8e3aae425fdbbe96126291079f67f1e6be9545ffbaab7a31de8d6e6825b115eb3fafbf24167eab91dbbb4ed6fcd120c387116f181de1e3369e8d5fdd75f17
-  languageName: node
-  linkType: hard
-
-"@vitest/utils@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@vitest/utils@npm:4.0.2"
-  dependencies:
-    "@vitest/pretty-format": "npm:4.0.2"
-    tinyrainbow: "npm:^3.0.3"
-  checksum: 10/8b452cf9d981cdc635d3e43cecb6b8de3453865634f7b49b0958d6c08c63cff7a82f369ffd7813264d8d48515a42972094394b87b4fb6d7ad131b5387c600664
   languageName: node
   linkType: hard
 
@@ -2622,7 +2603,7 @@ __metadata:
     "@types/react-dom": "npm:^19.2.2"
     "@types/w3c-web-usb": "npm:^1.0.13"
     "@vitejs/plugin-react": "npm:^5.1.0"
-    "@vitest/coverage-v8": "npm:4.0.2"
+    "@vitest/coverage-v8": "npm:4.0.3"
     eslint: "npm:^9.38.0"
     eslint-plugin-react-hooks: "npm:^7.0.1"
     eslint-plugin-react-refresh: "npm:^0.4.24"
